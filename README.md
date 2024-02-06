@@ -1,4 +1,4 @@
-Algorithms Understanding - Chapter 1
+Algorithms Understanding
 
 Este é um exemplo prático desenvolvido com base no primeiro capítulo do livro "Entendendo Algoritmos". O programa ilustra a diferença entre uma pesquisa binária e uma pesquisa simples, destacando como é possível acessar um item em uma lista de maneira mais eficiente e em poucos passos usando a pesquisa binária.
 
